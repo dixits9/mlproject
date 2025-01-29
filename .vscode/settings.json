@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.env.windows": {
+    "Path": "C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\bin;${env:Path}"
+}
